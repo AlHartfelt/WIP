@@ -1,1 +1,19 @@
+h1{
+  font-style: 'San Francisco';
+  font-size: 32px;
+  font-weight: 500;
+  color: white;
+  text-align: center;
+}
 
+p{
+  font-style: 'San Francisco';
+  font-size: 25px;
+  font-weight: 500;
+  color: white;
+  text-align: center;
+}
+
+topbody{
+  backgr-color: black
+}
