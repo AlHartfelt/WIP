@@ -1,3 +1,4 @@
+/* text styles */
 h1{
   font-style: 'San Francisco';
   font-size: 32px;
@@ -13,10 +14,34 @@ p{
   color: white;
   text-align: center;
 }
-
-topbody{
+/* body style */
+.topbody{
   background-color: black;
   background-image: linear-grediant(black, #1c1c1c);
   background-repeat: no-repeat;
   padding: 2rems;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #242424;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
 }
