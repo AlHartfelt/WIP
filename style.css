@@ -1,5 +1,5 @@
 /* text styles */
-h1{
+h1 {
   font-style: 'San Francisco';
   font-size: 32px;
   font-weight: 500;
@@ -7,7 +7,7 @@ h1{
   text-align: center;
 }
 
-p{
+p {
   font-style: 'San Francisco';
   font-size: 25px;
   font-weight: 500;
@@ -15,7 +15,7 @@ p{
   text-align: center;
 }
 /* body style */
-.topbody{
+ body {
   background-color: black;
   background-image: linear-grediant(black, #1c1c1c);
   background-repeat: no-repeat;
